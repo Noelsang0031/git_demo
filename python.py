@@ -1,0 +1,1 @@
+print("ive completed the sql part of the project, now im moving on to python")
